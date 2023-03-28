@@ -1,6 +1,6 @@
-# Hello there 👋, I'm Colin But
+# Heyy👋, I'm Fawwaaz
 
-### Software/DevOps/Cloud Engineer
+### Computer Engineer
 
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
@@ -10,33 +10,10 @@
 
 <br/>
 
-
-<table>
-    <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
-    </tr>
-</table>
-
-
-
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/Itsmfawwaaz"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mfawwaaz/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
